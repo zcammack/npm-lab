@@ -1,0 +1,26 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "This is a package.json that is used or the color clock.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zcammack/npm-lab.git"
+  },
+  "keywords": [
+    "color",
+    "clock"
+  ],
+  "author": "Zackary Cammack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zcammack/npm-lab/issues"
+  },
+  "homepage": "https://github.com/zcammack/npm-lab#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
